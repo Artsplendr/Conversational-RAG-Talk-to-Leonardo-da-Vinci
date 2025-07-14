@@ -10,7 +10,7 @@ The architecture typically consists of a vector database to store embedded docum
 
 The goal of this project is to demonstrate a "talk" to historical "person", by using Conversational RAG to pull real quotes and references from their speeches, letters, and books. Memory enables multi-turn interactions that simulate a natural human-like conversation.
 
-In this example, there will be "conversation" with Leonardo da Vinci, by implementing Conversational RAG to extract qoutes and references from his work ["Thoughts on Art and Life".](https://www.gutenberg.org/ebooks/29904), which is uploaded as "29904.txt" file here.
+In this example, there will be "conversation" with Leonardo da Vinci, by implementing Conversational RAG to extract qoutes and references from his work ["Thoughts on Art and Life"](https://www.gutenberg.org/ebooks/29904), which is uploaded as "29904.txt" file here.
 
 <br>
 
