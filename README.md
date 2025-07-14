@@ -2,7 +2,7 @@
 
 ## Conversational RAG Introduction
 
-Conversational Retrieval-Augmented Generation (RAG) is an advanced architecture designed to enhance natural language understanding in multi-turn dialog systems. Unlike basic RAG, which retrieves relevant documents and generates responses in a single-turn format, Conversational RAG incorporates memory—enabling the system to maintain context across multiple exchanges. By combining long-term memory with intelligent retrieval, Conversational RAG ensures that responses are not only grounded in external knowledge but are also consistent with the ongoing conversation.
+Conversational Retrieval-Augmented Generation (RAG) is an advanced architecture designed to enhance natural language understanding in multi-turn dialog systems. Unlike basic RAG, which retrieves relevant documents and generates responses in a single-turn format, Conversational RAG incorporates memory-enabling the system to maintain context across multiple exchanges. By combining long-term memory with intelligent retrieval, Conversational RAG ensures that responses are not only grounded in external knowledge but are also consistent with the ongoing conversation.
 
 The architecture typically consists of a vector database to store embedded documents, a memory module to track conversational history, and a large language model (LLM) to synthesize responses. During each interaction, the model uses both retrieved documents and the dialogue memory to generate answers that are contextually aware and knowledge-grounded. 
 
