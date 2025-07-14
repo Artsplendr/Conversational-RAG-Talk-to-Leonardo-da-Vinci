@@ -12,6 +12,7 @@ The goal of this project is to create a chatbot where users can "talk" to histor
 
 In this example, there will be "conversation" with Leonardo da Vinci, by using Conversational RAG to extract qoutes and references from his work ["Thoughts on Art and Life".](https://www.gutenberg.org/ebooks/29904)
 
+<br>
 
 <p align="left">
   <img src="image1.png">
