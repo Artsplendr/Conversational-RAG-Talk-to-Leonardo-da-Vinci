@@ -23,7 +23,7 @@ In this example, there will be "conversation" with Leonardo da Vinci, by using C
 <p align="left">
   <img src="image3.png">
 </p>
-
+<br>
 <p align="left">
   <img src="img-buttons.png">
 </p>
